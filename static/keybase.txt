@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/georgewl
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://georgewl.dev
+  * I am georgewl (https://keybase.io/georgewl) on keybase.
+  * I have a public key ASDVUOLl3uozbFbn-XbIUBHsOt4Z5J37HczTM3iqLGTMKQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d550e2e5deea336c56e7f976c85011ec3ade19e49dfb1dccd33378aa2c64cc290a",
+      "host": "keybase.io",
+      "kid": "0120d550e2e5deea336c56e7f976c85011ec3ade19e49dfb1dccd33378aa2c64cc290a",
+      "uid": "21d9c05caf8a2c63cd212f6a159ccd19",
+      "username": "georgewl"
+    },
+    "merkle_root": {
+      "ctime": 1582111287,
+      "hash": "d1465c1e2f62dbb08ca9ce738d31f48959ca3b42c9ddfd3d97dfedf0dd2c9310ddf3e24bad0866ffc610153c2deebcbd0285c2b4c0119ced21e0a6f31269b4b0",
+      "hash_meta": "588e8691b39e46a83a688d967364b6a1c25d523a7d80a654ecfa395f6edb2b01",
+      "seqno": 14647031
+    },
+    "service": {
+      "entropy": "FG6qna6qQnAoeb3ckAQy7tKG",
+      "hostname": "georgewl.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.2.0"
+  },
+  "ctime": 1582111308,
+  "expire_in": 504576000,
+  "prev": "4f3333ddf14bf291a7f14c234e8044838736b42b68caa6de6618bb8e0aebfae1",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg1VDi5d7qM2xW5/l2yFAR7DreGeSd+x3M0zN4qixkzCkKp3BheWxvYWTESpcCB8QgTzMz3fFL8pGn8UwjToBEg4c2tCtoyqbeZhi7jgrr+uHEIJOpreJ6Sn/VR7X7LbdvggTXSm23/KZ+dmD+u+llPva+AgHCo3NpZ8RApSbBhTe24hRMg2KkiELQ4qI0iZvi6Yd76/5ECWVeD5rCNOxd9wHFxU8HuPV8N+iIoUB3pYFbFhwXQYYOpMfZCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIF8Qh2ejFTn9A971cjI/84ksn4gnwI0CZOPHujy6A0dio3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/georgewl
+
+==================================================================
